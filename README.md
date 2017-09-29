@@ -1,0 +1,2 @@
+# zxinglibrary
+ZXing竖屏和扫描图片变形，只需要把项目改成library引用，改变扫描结果处理，activity实现onactivityforresult方法接受

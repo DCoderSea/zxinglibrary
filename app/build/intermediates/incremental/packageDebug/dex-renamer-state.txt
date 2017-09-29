@@ -1,0 +1,7 @@
+#Thu Sep 28 11:16:16 CST 2017
+base.0=C\:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b01b4f8e120e229271cf61bfb5b5086377b675c7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_980d3de938d2267473267550b8f98260c21d8ecd\\classes.dex
+base.1=C\:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_980d3de938d2267473267550b8f98260c21d8ecd
+file.0=C\:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b01b4f8e120e229271cf61bfb5b5086377b675c7\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vigny\Desktop\zxing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Vigny\Desktop\zxing\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_980d3de938d2267473267550b8f98260c21d8ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vigny\Desktop\zxing\app\libs\zxing_core3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1805ada51edea4d1b60986bb5f9fd3467d842a6e">
+        <dex dex="C:\Users\Vigny\Desktop\zxing\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_core3.3.0_cdb179164cc529b314c192d8b45520df20c46540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vigny\Desktop\zxing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="800fb8ef1ec7e8c155fea217f3e968558de7a8a1">
+        <dex dex="C:\Users\Vigny\Desktop\zxing\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b01b4f8e120e229271cf61bfb5b5086377b675c7\classes.dex" />
+    </item>
+
+</items>

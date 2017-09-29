@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Users\\Vigny\\Desktop\\zxing\\app\\src\\main\\res\\menu\\encode.xml"
+    }
+]
